@@ -2,3 +2,6 @@ This is a small note I have done to keep certain passwords of mine that
 i know very well that i cannot remember.
 username:styvin
 password: Savedbygrace
+
+username:edembobo
+password:S@vedbygrace
